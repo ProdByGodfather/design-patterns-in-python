@@ -14,7 +14,7 @@
 - Singleton (تک‌نمونه)
 - [Factory Method (متد کارخانه‌ای)](abstract_factory.ipynb)
 - Abstract Factory (کارخانه انتزاعی)
-- Builder (سازنده)
+- [Builder (سازنده)](builder.ipynb)
 - Prototype (نمونه اولیه)
 
 ### 2. الگوهای طراحی ساختاری (Structural Patterns)
