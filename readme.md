@@ -39,7 +39,7 @@
 - Observer (ناظر)
 - State (حالت)
 - [Strategy (استراتژی)](strategy.ipynb)
-- Template Method (الگوی متد)
+- [Template Method (الگوی متد)](template_method.ipynb)
 - Visitor (بازدیدکننده)
 
 ## نتیجه‌گیری
