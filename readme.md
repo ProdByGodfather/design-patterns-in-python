@@ -12,8 +12,8 @@
 این الگوها مربوط به فرآیند ایجاد اشیا هستند و به شما کمک می‌کنند تا نحوه ساخت اشیا را بهینه کنید.
 
 - Singleton (تک‌نمونه)
-- [Factory Method (متد کارخانه‌ای)](abstract_factory.ipynb)
-- Abstract Factory (کارخانه انتزاعی)
+- Factory Method (متد کارخانه‌ای)
+- [Abstract Factory (کارخانه انتزاعی)](abstract_factory.ipynb)
 - [Builder (سازنده)](builder.ipynb)
 - [Prototype (نمونه اولیه)](prototype.ipynb)
 
