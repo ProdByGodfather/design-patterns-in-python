@@ -38,7 +38,7 @@
 - Memento (یادگاری)
 - Observer (ناظر)
 - State (حالت)
-- Strategy (استراتژی)
+- [Strategy (استراتژی)](strategy.ipynb)
 - Template Method (الگوی متد)
 - Visitor (بازدیدکننده)
 
