@@ -11,7 +11,7 @@
 ### 1. الگوهای طراحی سازنده (Creational Patterns)
 این الگوها مربوط به فرآیند ایجاد اشیا هستند و به شما کمک می‌کنند تا نحوه ساخت اشیا را بهینه کنید.
 
-- Singleton (تک‌نمونه)
+- [Singleton (تک‌نمونه)](singleton.ipynb)
 - Factory Method (متد کارخانه‌ای)
 - [Abstract Factory (کارخانه انتزاعی)](abstract_factory.ipynb)
 - [Builder (سازنده)](builder.ipynb)
@@ -23,7 +23,7 @@
 - [Adapter (آداپتور)](adaptor.ipynb)
 - Bridge (پل)
 - Composite (ترکیبی)
-- Decorator (تزئین‌کننده)
+- [Decorator (تزئین‌کننده)](decorator.ipynb)
 - Facade (نما)
 - Flyweight (وزن‌سبک)
 - Proxy (نماینده)
@@ -33,7 +33,7 @@
 
 - Chain of Responsibility (زنجیره مسئولیت)
 - Command (فرمان)
-- Iterator (گردشگر)
+- [Iterator (گردشگر)](iterator.ipynb)
 - Mediator (میانجی)
 - Memento (یادگاری)
 - Observer (ناظر)
