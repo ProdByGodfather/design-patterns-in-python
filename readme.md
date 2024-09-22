@@ -20,7 +20,7 @@
 ### 2. الگوهای طراحی ساختاری (Structural Patterns)
 این الگوها بر نحوه ترکیب و ساختاردهی اشیا و کلاس‌ها تمرکز دارند.
 
-- Adapter (آداپتور)
+- [Adapter (آداپتور)](adaptor.ipynb)
 - Bridge (پل)
 - Composite (ترکیبی)
 - Decorator (تزئین‌کننده)
