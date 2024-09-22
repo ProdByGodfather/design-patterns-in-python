@@ -15,7 +15,7 @@
 - [Factory Method (متد کارخانه‌ای)](abstract_factory.ipynb)
 - Abstract Factory (کارخانه انتزاعی)
 - [Builder (سازنده)](builder.ipynb)
-- Prototype (نمونه اولیه)
+- [Prototype (نمونه اولیه)](prototype.ipynb)
 
 ### 2. الگوهای طراحی ساختاری (Structural Patterns)
 این الگوها بر نحوه ترکیب و ساختاردهی اشیا و کلاس‌ها تمرکز دارند.
